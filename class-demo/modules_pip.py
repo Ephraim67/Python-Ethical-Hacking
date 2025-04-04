@@ -40,3 +40,11 @@ inherit the methods (start, lock, drive, and park) from its class “car.”
 through this chapter, and your Python skills develop.
 """
 
+"""
+ Dictionaries are useful when you want to refer to or change a value by referring to a key name. For 
+example, say you have a dictionary called cars that contains your favorite model of each car manufacturer 
+configured like the following:
+cars = {'BMW': 'X6', 'Mercedes': 'GLC300', 'Tesla': 'Model X', 'Audi': 'Q3'}
+"""
+
+
