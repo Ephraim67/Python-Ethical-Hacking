@@ -45,6 +45,37 @@ through this chapter, and your Python skills develop.
 example, say you have a dictionary called cars that contains your favorite model of each car manufacturer 
 configured like the following:
 cars = {'BMW': 'X6', 'Mercedes': 'GLC300', 'Tesla': 'Model X', 'Audi': 'Q3'}
+print(cars[])
 """
+
+# Functions
+"""Functions in Python (like other programming languages) are bits of code that perform a designated 
+action.They are like mini-programs within your script. For instance, the print() statement we used above 
+is a function that displays whatever you pass to it in the script. There are a large number of functions in 
+Python that you can import and use. Most are available in your default installation of Python, but there are 
+numerous others available in the downloadable libraries in Python."""
+
+"""
+Here is a brief sampling of available functions.
+ abs() – returns the absolute value of a number
+ ascii() – returns a string containing a printable representation of an object
+ bool() – returns a Boolean value
+ dict() – creates a new dictionary
+ help() – invokes the built-in help
+ hash () – returns the hash value of an object
+ max() – returns the largest value
+ hex() -  converts an integer to hexadecimal
+ min() – returns the smallest value
+ round()- returns a rounded number
+ len() – returns the length of the object
+ sum() – sums the items of an iterable and returns the total
+"""
+
+"""
+def new_function:
+    <Block of code>
+"""
+
+
 
 
