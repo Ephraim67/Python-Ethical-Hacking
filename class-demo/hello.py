@@ -202,6 +202,10 @@ elif sum >= 10:
 else:
     print("Sum is negative")
 
+#A function is a block of code that only runs when it is called.
+
+# You can pass data, known as parameters, into a function.
+
 
 
 
